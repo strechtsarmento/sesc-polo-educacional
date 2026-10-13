@@ -1,0 +1,1595 @@
+[
+  {
+    "id": "esem-2017-q01",
+    "prova": 2017,
+    "questaoOriginal": 1,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2017-q02",
+    "prova": 2017,
+    "questaoOriginal": 2,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2017-q03",
+    "prova": 2017,
+    "questaoOriginal": 3,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2017-q04",
+    "prova": 2017,
+    "questaoOriginal": 4,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2017-q05",
+    "prova": 2017,
+    "questaoOriginal": 5,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2017-q07",
+    "prova": 2017,
+    "questaoOriginal": 7,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2017-q08",
+    "prova": 2017,
+    "questaoOriginal": 8,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2017-q12",
+    "prova": 2017,
+    "questaoOriginal": 12,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2017-q13",
+    "prova": 2017,
+    "questaoOriginal": 13,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2017-q14",
+    "prova": 2017,
+    "questaoOriginal": 14,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2017-q15",
+    "prova": 2017,
+    "questaoOriginal": 15,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2017-q16",
+    "prova": 2017,
+    "questaoOriginal": 16,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2017-q17",
+    "prova": 2017,
+    "questaoOriginal": 17,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2017-q18",
+    "prova": 2017,
+    "questaoOriginal": 18,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2017-q20",
+    "prova": 2017,
+    "questaoOriginal": 20,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": "ANULADA",
+    "motivo": "A questão 20 foi ANULADA no gabarito oficial de 2017. Não atribuir alternativa correta nem pontuar este item."
+  },
+  {
+    "id": "esem-2017-q27",
+    "prova": 2017,
+    "questaoOriginal": 27,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2017-q28",
+    "prova": 2017,
+    "questaoOriginal": 28,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2017-q29",
+    "prova": 2017,
+    "questaoOriginal": 29,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2017-q30",
+    "prova": 2017,
+    "questaoOriginal": 30,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2018-q01",
+    "prova": 2018,
+    "questaoOriginal": 1,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q02",
+    "prova": 2018,
+    "questaoOriginal": 2,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q03",
+    "prova": 2018,
+    "questaoOriginal": 3,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q04",
+    "prova": 2018,
+    "questaoOriginal": 4,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q05",
+    "prova": 2018,
+    "questaoOriginal": 5,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q06",
+    "prova": 2018,
+    "questaoOriginal": 6,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q07",
+    "prova": 2018,
+    "questaoOriginal": 7,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q08",
+    "prova": 2018,
+    "questaoOriginal": 8,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q09",
+    "prova": 2018,
+    "questaoOriginal": 9,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q10",
+    "prova": 2018,
+    "questaoOriginal": 10,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área identificada pelo bloco de leitura e análise linguística no OCR da prova; enunciado/alternativas ausentes no banco e precisam ser recuperados."
+  },
+  {
+    "id": "esem-2018-q11",
+    "prova": 2018,
+    "questaoOriginal": 11,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q12",
+    "prova": 2018,
+    "questaoOriginal": 12,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Área inferida do enunciado recuperado (problemas quantitativos); requer conferência visual com a prova original."
+  },
+  {
+    "id": "esem-2018-q14",
+    "prova": 2018,
+    "questaoOriginal": 14,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q15",
+    "prova": 2018,
+    "questaoOriginal": 15,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q16",
+    "prova": 2018,
+    "questaoOriginal": 16,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q17",
+    "prova": 2018,
+    "questaoOriginal": 17,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q18",
+    "prova": 2018,
+    "questaoOriginal": 18,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q19",
+    "prova": 2018,
+    "questaoOriginal": 19,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q20",
+    "prova": 2018,
+    "questaoOriginal": 20,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q21",
+    "prova": 2018,
+    "questaoOriginal": 21,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q22",
+    "prova": 2018,
+    "questaoOriginal": 22,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q23",
+    "prova": 2018,
+    "questaoOriginal": 23,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q24",
+    "prova": 2018,
+    "questaoOriginal": 24,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q25",
+    "prova": 2018,
+    "questaoOriginal": 25,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q26",
+    "prova": 2018,
+    "questaoOriginal": 26,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q27",
+    "prova": 2018,
+    "questaoOriginal": 27,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q28",
+    "prova": 2018,
+    "questaoOriginal": 28,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q29",
+    "prova": 2018,
+    "questaoOriginal": 29,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2018-q30",
+    "prova": 2018,
+    "questaoOriginal": 30,
+    "area": "Área não identificada — conteúdo extraído incompleto",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Enunciado e/ou alternativas ausentes na extração atual. Não utilizar para treino até reconstrução a partir do PDF original."
+  },
+  {
+    "id": "esem-2020-q01",
+    "prova": 2020,
+    "questaoOriginal": 1,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2020-q02",
+    "prova": 2020,
+    "questaoOriginal": 2,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2020-q03",
+    "prova": 2020,
+    "questaoOriginal": 3,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis; resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q04",
+    "prova": 2020,
+    "questaoOriginal": 4,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2020-q05",
+    "prova": 2020,
+    "questaoOriginal": 5,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2020-q06",
+    "prova": 2020,
+    "questaoOriginal": 6,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q07",
+    "prova": 2020,
+    "questaoOriginal": 7,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q08",
+    "prova": 2020,
+    "questaoOriginal": 8,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2020-q09",
+    "prova": 2020,
+    "questaoOriginal": 9,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2020-q10",
+    "prova": 2020,
+    "questaoOriginal": 10,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2020-q11",
+    "prova": 2020,
+    "questaoOriginal": 11,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2020-q12",
+    "prova": 2020,
+    "questaoOriginal": 12,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q13",
+    "prova": 2020,
+    "questaoOriginal": 13,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q14",
+    "prova": 2020,
+    "questaoOriginal": 14,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2020-q15",
+    "prova": 2020,
+    "questaoOriginal": 15,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2020-q16",
+    "prova": 2020,
+    "questaoOriginal": 16,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2020-q17",
+    "prova": 2020,
+    "questaoOriginal": 17,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2020-q18",
+    "prova": 2020,
+    "questaoOriginal": 18,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2020-q19",
+    "prova": 2020,
+    "questaoOriginal": 19,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2020-q20",
+    "prova": 2020,
+    "questaoOriginal": 20,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2020-q21",
+    "prova": 2020,
+    "questaoOriginal": 21,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis; resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q22",
+    "prova": 2020,
+    "questaoOriginal": 22,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q23",
+    "prova": 2020,
+    "questaoOriginal": 23,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis; resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q24",
+    "prova": 2020,
+    "questaoOriginal": 24,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: resíduo de arquivo/OCR."
+  },
+  {
+    "id": "esem-2020-q25",
+    "prova": 2020,
+    "questaoOriginal": 25,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2020-q26",
+    "prova": 2020,
+    "questaoOriginal": 26,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2020-q27",
+    "prova": 2020,
+    "questaoOriginal": 27,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2020-q28",
+    "prova": 2020,
+    "questaoOriginal": 28,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2020-q29",
+    "prova": 2020,
+    "questaoOriginal": 29,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2020-q30",
+    "prova": 2020,
+    "questaoOriginal": 30,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2023-q01",
+    "prova": 2023,
+    "questaoOriginal": 1,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q02",
+    "prova": 2023,
+    "questaoOriginal": 2,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q03",
+    "prova": 2023,
+    "questaoOriginal": 3,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF."
+  },
+  {
+    "id": "esem-2023-q04",
+    "prova": 2023,
+    "questaoOriginal": 4,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2023-q05",
+    "prova": 2023,
+    "questaoOriginal": 5,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2023-q10",
+    "prova": 2023,
+    "questaoOriginal": 10,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q11",
+    "prova": 2023,
+    "questaoOriginal": 11,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q12",
+    "prova": 2023,
+    "questaoOriginal": 12,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q13",
+    "prova": 2023,
+    "questaoOriginal": 13,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: texto/figura de apoio não anexado."
+  },
+  {
+    "id": "esem-2023-q14",
+    "prova": 2023,
+    "questaoOriginal": 14,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2023-q16",
+    "prova": 2023,
+    "questaoOriginal": 16,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q18",
+    "prova": 2023,
+    "questaoOriginal": 18,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2023-q19",
+    "prova": 2023,
+    "questaoOriginal": 19,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q20",
+    "prova": 2023,
+    "questaoOriginal": 20,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q22",
+    "prova": 2023,
+    "questaoOriginal": 22,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q23",
+    "prova": 2023,
+    "questaoOriginal": 23,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q27",
+    "prova": 2023,
+    "questaoOriginal": 27,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2023-q29",
+    "prova": 2023,
+    "questaoOriginal": 29,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF."
+  },
+  {
+    "id": "esem-2023-q30",
+    "prova": 2023,
+    "questaoOriginal": 30,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2024-q01",
+    "prova": 2024,
+    "questaoOriginal": 1,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2024-q02",
+    "prova": 2024,
+    "questaoOriginal": 2,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q04",
+    "prova": 2024,
+    "questaoOriginal": 4,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q06",
+    "prova": 2024,
+    "questaoOriginal": 6,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2024-q07",
+    "prova": 2024,
+    "questaoOriginal": 7,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q08",
+    "prova": 2024,
+    "questaoOriginal": 8,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2024-q09",
+    "prova": 2024,
+    "questaoOriginal": 9,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q10",
+    "prova": 2024,
+    "questaoOriginal": 10,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q12",
+    "prova": 2024,
+    "questaoOriginal": 12,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q13",
+    "prova": 2024,
+    "questaoOriginal": 13,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2024-q14",
+    "prova": 2024,
+    "questaoOriginal": 14,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q16",
+    "prova": 2024,
+    "questaoOriginal": 16,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q17",
+    "prova": 2024,
+    "questaoOriginal": 17,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2024-q18",
+    "prova": 2024,
+    "questaoOriginal": 18,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q20",
+    "prova": 2024,
+    "questaoOriginal": 20,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: texto/figura de apoio não anexado."
+  },
+  {
+    "id": "esem-2024-q22",
+    "prova": 2024,
+    "questaoOriginal": 22,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2024-q23",
+    "prova": 2024,
+    "questaoOriginal": 23,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q24",
+    "prova": 2024,
+    "questaoOriginal": 24,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q25",
+    "prova": 2024,
+    "questaoOriginal": 25,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q26",
+    "prova": 2024,
+    "questaoOriginal": 26,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2024-q27",
+    "prova": 2024,
+    "questaoOriginal": 27,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q28",
+    "prova": 2024,
+    "questaoOriginal": 28,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2024-q29",
+    "prova": 2024,
+    "questaoOriginal": 29,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2024-q30",
+    "prova": 2024,
+    "questaoOriginal": 30,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2025-q01",
+    "prova": 2025,
+    "questaoOriginal": 1,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q02",
+    "prova": 2025,
+    "questaoOriginal": 2,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q03",
+    "prova": 2025,
+    "questaoOriginal": 3,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q04",
+    "prova": 2025,
+    "questaoOriginal": 4,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q05",
+    "prova": 2025,
+    "questaoOriginal": 5,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q06",
+    "prova": 2025,
+    "questaoOriginal": 6,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q07",
+    "prova": 2025,
+    "questaoOriginal": 7,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q08",
+    "prova": 2025,
+    "questaoOriginal": 8,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q09",
+    "prova": 2025,
+    "questaoOriginal": 9,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q10",
+    "prova": 2025,
+    "questaoOriginal": 10,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q11",
+    "prova": 2025,
+    "questaoOriginal": 11,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Depende de texto/figura de apoio que não foi recuperado com confiança; ocultada do treino até conferência manual."
+  },
+  {
+    "id": "esem-2025-q12",
+    "prova": 2025,
+    "questaoOriginal": 12,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q13",
+    "prova": 2025,
+    "questaoOriginal": 13,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q14",
+    "prova": 2025,
+    "questaoOriginal": 14,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2025-q15",
+    "prova": 2025,
+    "questaoOriginal": 15,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q16",
+    "prova": 2025,
+    "questaoOriginal": 16,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q17",
+    "prova": 2025,
+    "questaoOriginal": 17,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q19",
+    "prova": 2025,
+    "questaoOriginal": 19,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q20",
+    "prova": 2025,
+    "questaoOriginal": 20,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q21",
+    "prova": 2025,
+    "questaoOriginal": 21,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q22",
+    "prova": 2025,
+    "questaoOriginal": 22,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q23",
+    "prova": 2025,
+    "questaoOriginal": 23,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q24",
+    "prova": 2025,
+    "questaoOriginal": 24,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2025-q26",
+    "prova": 2025,
+    "questaoOriginal": 26,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q27",
+    "prova": 2025,
+    "questaoOriginal": 27,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q28",
+    "prova": 2025,
+    "questaoOriginal": 28,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q29",
+    "prova": 2025,
+    "questaoOriginal": 29,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2025-q30",
+    "prova": 2025,
+    "questaoOriginal": 30,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q01",
+    "prova": 2026,
+    "questaoOriginal": 1,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q02",
+    "prova": 2026,
+    "questaoOriginal": 2,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q03",
+    "prova": 2026,
+    "questaoOriginal": 3,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q04",
+    "prova": 2026,
+    "questaoOriginal": 4,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q05",
+    "prova": 2026,
+    "questaoOriginal": 5,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q06",
+    "prova": 2026,
+    "questaoOriginal": 6,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q08",
+    "prova": 2026,
+    "questaoOriginal": 8,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q09",
+    "prova": 2026,
+    "questaoOriginal": 9,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q10",
+    "prova": 2026,
+    "questaoOriginal": 10,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q11",
+    "prova": 2026,
+    "questaoOriginal": 11,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q12",
+    "prova": 2026,
+    "questaoOriginal": 12,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2026-q13",
+    "prova": 2026,
+    "questaoOriginal": 13,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q15",
+    "prova": 2026,
+    "questaoOriginal": 15,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q16",
+    "prova": 2026,
+    "questaoOriginal": 16,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q17",
+    "prova": 2026,
+    "questaoOriginal": 17,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q18",
+    "prova": 2026,
+    "questaoOriginal": 18,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q19",
+    "prova": 2026,
+    "questaoOriginal": 19,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2026-q20",
+    "prova": 2026,
+    "questaoOriginal": 20,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q21",
+    "prova": 2026,
+    "questaoOriginal": 21,
+    "area": "Ciências da Natureza",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio automático removido por risco de associação incorreta; conferir e recuperar no PDF original."
+  },
+  {
+    "id": "esem-2026-q22",
+    "prova": 2026,
+    "questaoOriginal": 22,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q23",
+    "prova": 2026,
+    "questaoOriginal": 23,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q24",
+    "prova": 2026,
+    "questaoOriginal": 24,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: extração insuficiente no PDF; enunciado incompleto; menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q25",
+    "prova": 2026,
+    "questaoOriginal": 25,
+    "area": "Língua Portuguesa",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q26",
+    "prova": 2026,
+    "questaoOriginal": 26,
+    "area": "Ciências Humanas",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q27",
+    "prova": 2026,
+    "questaoOriginal": 27,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q28",
+    "prova": 2026,
+    "questaoOriginal": 28,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  },
+  {
+    "id": "esem-2026-q29",
+    "prova": 2026,
+    "questaoOriginal": 29,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Não disponibilizada para pontuação: menos de quatro alternativas legíveis."
+  },
+  {
+    "id": "esem-2026-q30",
+    "prova": 2026,
+    "questaoOriginal": 30,
+    "area": "Matemática",
+    "status": "revisar",
+    "resultadoOficial": null,
+    "motivo": "Texto de apoio recuperado automaticamente da prova original; requer conferência visual antes de liberar pontuação."
+  }
+]

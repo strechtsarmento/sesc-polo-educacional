@@ -1,0 +1,225 @@
+[
+  {
+    "id": "POR-001",
+    "disciplina": "POR",
+    "modulo": "Leitura e Análise Linguística",
+    "titulo": "Interpretação e Análise Textual",
+    "descricao": "Habilidades de leitura, inferência e identificação de estruturas em diferentes gêneros textuais.",
+    "prioridade": 5, "peso": 95, "dificuldade": 2, "tempo": 60, "questoes": 15,
+    "links": { "khan": "https://pt.khanacademy.org/khan-for-educators/portugues-6-ao-9-ano", "complementar": "https://www.todamateria.com.br/interpretacao-de-texto/" },
+    "subtopicos": [
+      "Compreensão e interpretação de textos", "Identificação do tema/assunto", "Localização de informações",
+      "Relação entre informações explícitas e implícitas", "Inferências e relações entre partes do texto",
+      "Distinção entre fato e opinião", "Identificação da finalidade de diferentes gêneros textuais", "Comparação entre textos sobre o mesmo tema"
+    ]
+  },
+  {
+    "id": "POR-002",
+    "disciplina": "POR",
+    "modulo": "Narrativa e Linguagem",
+    "titulo": "Estrutura Narrativa e Marcas de Linguagem",
+    "descricao": "Estudo dos elementos do enredo, variações de fala e fenômenos intertextuais.",
+    "prioridade": 4, "peso": 75, "dificuldade": 3, "tempo": 50, "questoes": 12,
+    "links": { "khan": "https://pt.khanacademy.org/khan-for-educators/portugues-6-ao-9-ano", "complementar": "" },
+    "subtopicos": [
+      "Identificação do conflito gerador do enredo", "Elementos da narrativa", "Identificação das marcas do locutor e do interlocutor",
+      "Intertextualidade", "Linguagem verbal e não verbal", "Variação linguística", "Oralidade e escrita"
+    ]
+  },
+  {
+    "id": "POR-003",
+    "disciplina": "POR",
+    "modulo": "Semântica e Estilística",
+    "titulo": "Significação das Palavras e Figuras de Linguagem",
+    "descricao": "Estudo do sentido das palavras e dos principais recursos estilísticos da norma padrão.",
+    "prioridade": 5, "peso": 90, "dificuldade": 3, "tempo": 70, "questoes": 15,
+    "links": { "khan": "https://pt.khanacademy.org/khan-for-educators/portugues-6-ao-9-ano", "complementar": "https://www.todamateria.com.br/figuras-de-linguagem/" },
+    "subtopicos": [
+      "Sinonímia, Antonímia e Polissemia", "Conotação e Denotação", "Comparação e Metáfora", "Metonímia e Ironia",
+      "Antítese e Paradoxo", "Personificação e Hipérbole", "Eufemismo e Pleonasmo", "Repetição"
+    ]
+  },
+  {
+    "id": "POR-004",
+    "disciplina": "POR",
+    "modulo": "Gramática",
+    "titulo": "Morfossexologia e Norma-Padrão",
+    "descricao": "Análise das classes de palavras e regras de concordância, ortografia e pontuação.",
+    "prioridade": 5, "peso": 85, "dificuldade": 4, "tempo": 80, "questoes": 12,
+    "links": { "khan": "https://pt.khanacademy.org/humanities/lp-gramatica-ortografia", "complementar": "" },
+    "subtopicos": [
+      "Classes de palavras (emprego, reconhecimento e classificação)", "Concordância nominal", "Concordância verbal",
+      "Valores semânticos dos conectivos", "Ortografia", "Pontuação", "Acentuação gráfica"
+    ]
+  },
+  {
+    "id": "POR-005",
+    "disciplina": "POR",
+    "modulo": "Produção Textual",
+    "titulo": "Estrutura do Texto Dissertativo-Argumentativo",
+    "descricao": "Produção de textos em prosa, critérios de avaliação da banca e motivos de nota zero.",
+    "prioridade": 5, "peso": 100, "dificuldade": 4, "tempo": 90, "questoes": 5,
+    "links": { "khan": "", "complementar": "https://www.todamateria.com.br/texto-dissertativo-argumentativo/" },
+    "subtopicos": [
+      "Texto dissertativo-argumentativo e Coerência textual", "Reflexão crítica e Domínio da norma-padrão",
+      "Inter-relacionar ideias e Defender ponto de vista com argumentos", "Apresentar informações, fatos e opiniões de forma clara",
+      "Respeitar os Direitos Humanos e Utilizar vocabulário adequado", "Fuga ao tema (Redação nota zero)", "Texto sem estrutura dissertativo-argumentativa (Redação nota zero)"
+    ]
+  },
+  {
+    "id": "MAT-001",
+    "disciplina": "MAT",
+    "modulo": "Aritmética",
+    "titulo": "Conjuntos Numéricos e Divisibilidade",
+    "descricao": "Estudo das propriedades operacionais e problemas de contagem divisível.",
+    "prioridade": 4, "peso": 80, "dificuldade": 2, "tempo": 60, "questoes": 12,
+    "links": { "khan": "https://pt.khanacademy.org/math/pt-6-ano", "complementar": "https://www.todamateria.com.br/mmc-e-mdc/" },
+    "subtopicos": [
+      "Números naturais, inteiros, racionais e reais", "Operações e propriedades dos conjuntos numéricos",
+      "Múltiplos e divisores", "MMC (Mínimo Múltiplo Comum)", "MDC (Máximo Divisor Comum)"
+    ]
+  },
+  {
+    "id": "MAT-002",
+    "disciplina": "MAT",
+    "modulo": "Proporcionalidade e Finanças",
+    "titulo": "Razão, Proporção e Matemática Financeira",
+    "descricao": "Relações métricas proporcionais e aplicações em porcentagem e juros.",
+    "prioridade": 5, "peso": 95, "dificuldade": 3, "tempo": 60, "questoes": 15,
+    "links": { "khan": "https://pt.khanacademy.org/math/pt-7-ano", "complementar": "https://www.todamateria.com.br/porcentagem/" },
+    "subtopicos": [
+      "Razões e Proporções", "Propriedades das proporções", "Porcentagem", "Juros simples"
+    ]
+  },
+  {
+    "id": "MAT-003",
+    "disciplina": "MAT",
+    "modulo": "Álgebra e Funções",
+    "titulo": "Potências, Notação Científica e Linguagem Algébrica",
+    "descricao": "Simplificação de estruturas matemáticas exponenciais e equações.",
+    "prioridade": 4, "peso": 75, "dificuldade": 3, "tempo": 50, "questoes": 10,
+    "links": { "khan": "https://pt.khanacademy.org/math/pt-8-ano", "complementar": "" },
+    "subtopicos": [
+      "Potenciação e Radiciação", "Notação científica", "Linguagem algébrica e Reconhecimento de padrões",
+      "Cálculo algébrico", "Equações, inequações e sistemas do 1º grau"
+    ]
+  },
+  {
+    "id": "MAT-004",
+    "disciplina": "MAT",
+    "modulo": "Álgebra e Funções",
+    "titulo": "Equações de 2º Grau e Funções Matemáticas",
+    "descricao": "Análise gráfica e resolução prática de polinômios de grau 1 e 2.",
+    "prioridade": 5, "peso": 95, "dificuldade": 5, "tempo": 80, "questoes": 15,
+    "links": { "khan": "https://pt.khanacademy.org/math/pt-9-ano", "complementar": "https://www.todamateria.com.br/equacao-do-2-grau/" },
+    "subtopicos": [
+      "Função do 1º grau e Função do 2º grau", "Gráficos e Operações com funções", "Resolução e problemas de Equação do 2º grau"
+    ]
+  },
+  {
+    "id": "MAT-005",
+    "disciplina": "MAT",
+    "modulo": "Geometria e Medidas",
+    "titulo": "Medidas, Geometria Plana e Espacial",
+    "descricao": "Cálculos dimensionais de áreas, perímetros e volumes.",
+    "prioridade": 5, "peso": 85, "dificuldade": 3, "tempo": 65, "questoes": 12,
+    "links": { "khan": "https://pt.khanacademy.org/math/pt-6-ano", "complementar": "" },
+    "subtopicos": [
+      "Medidas de Tempo, Comprimento e Massa", "Medidas de Área e Volume", "Perímetros e Cálculo de áreas",
+      "Cálculo de volumes", "Ângulos e propriedades", "Figuras planas e Figuras espaciais", "Semelhança de figuras planas"
+    ]
+  },
+  {
+    "id": "MAT-006",
+    "disciplina": "MAT",
+    "modulo": "Geometria",
+    "titulo": "Trigonometria e Relações no Triângulo Retângulo",
+    "descricao": "Teorema de Pitágoras e funções trigonométricas básicas de ângulos.",
+    "prioridade": 5, "peso": 90, "dificuldade": 4, "tempo": 70, "questoes": 12,
+    "links": { "khan": "https://pt.khanacademy.org/math/pt-9-ano", "complementar": "" },
+    "subtopicos": [
+      "Relações métricas no triângulo retângulo", "Relações trigonométricas no triângulo retângulo"
+    ]
+  },
+  {
+    "id": "MAT-007",
+    "disciplina": "MAT",
+    "modulo": "Análise de Dados",
+    "titulo": "Estatística e Análise Combinatória",
+    "descricao": "Interpretação estatística de médias e cálculo de probabilidades agrupadas.",
+    "prioridade": 3, "peso": 70, "dificuldade": 3, "tempo": 60, "questoes": 10,
+    "links": { "khan": "https://pt.khanacademy.org/math/pt-7-ano", "complementar": "" },
+    "subtopicos": [
+      "Leitura e Interpretação de gráficos", "Análise de tabelas", "Média aritmética simples e ponderada",
+      "Processos de contagem", "Cálculo de possibilidades", "Número de elementos de agrupamentos"
+    ]
+  },
+  {
+    "id": "HIS-001",
+    "disciplina": "HIS",
+    "modulo": "História Geral",
+    "titulo": "Mundo Contemporâneo e Transições Industriais",
+    "descricao": "Das revoluções burguesas europeias até as dinâmicas de globalização tecnológica.",
+    "prioridade": 4, "peso": 80, "dificuldade": 3, "tempo": 60, "questoes": 10,
+    "links": { "khan": "", "complementar": "https://www.todamateria.com.br/revolucoes-burguesas/" },
+    "subtopicos": [
+      "Europa pré-industrial", "Revolução Industrial e Segunda Revolução Industrial", "Revolução Francesa",
+      "Independência dos Estados Unidos", "Imperialismo", "Revolução tecnológica e Globalização"
+    ]
+  },
+  {
+    "id": "HIS-002",
+    "disciplina": "HIS",
+    "modulo": "História do Brasil",
+    "titulo": "Construção Social e Econômica Brasileira",
+    "descricao": "Análise estrutural do Brasil desde o período colonial até os regimes republicanos.",
+    "prioridade": 5, "peso": 90, "dificuldade": 3, "tempo": 70, "questoes": 12,
+    "links": { "khan": "", "complementar": "https://www.todamateria.com.br/historia-do-brasil/" },
+    "subtopicos": [
+      "Brasil Colônia", "Escravidão no Brasil", "Economia brasileira no Segundo Reinado", "República Brasileira"
+    ]
+  },
+  {
+    "id": "GEO-001",
+    "disciplina": "GEO",
+    "modulo": "Espaço Geográfico",
+    "titulo": "Globalização, Cartografia e Redes",
+    "descricao": "Representações do espaço geográfico e as conexões da dinâmica global contemporânea.",
+    "prioridade": 4, "peso": 78, "dificuldade": 3, "tempo": 55, "questoes": 10,
+    "links": { "khan": "", "complementar": "https://www.todamateria.com.br/globalizacao/" },
+    "subtopicos": [
+      "Processo histórico e organização do espaço geográfico", "Dinâmicas naturais no espaço globalizado",
+      "Espaço e suas representações", "Redes globais: Informacionais, Comerciais, Produtivas e Migratórias",
+      "Globalização", "Transformações no campo e na cidade"
+    ]
+  },
+  {
+    "id": "CIEN-001",
+    "disciplina": "CIEN",
+    "modulo": "Biologia",
+    "titulo": "Seres Vivos, Corpo Humano e Ecologia",
+    "descricao": "Classificações biológicas fundamentais, funcionamento dos ecossistemas e saúde humana.",
+    "prioridade": 4, "peso": 80, "dificuldade": 3, "tempo": 60, "questoes": 10,
+    "links": { "khan": "https://pt.khanacademy.org/science/science-9-ano", "complementar": "" },
+    "subtopicos": [
+      "Características e classificação dos Seres vivos", "Vida e ambiente", "Biologia do Ser humano e Saúde",
+      "Relações ecológicas e Ecossistemas", "Preservação da vida e do meio ambiente",
+      "Recursos naturais: Renováveis, Não renováveis e Benefícios sociais", "Poluição"
+    ]
+  },
+  {
+    "id": "CIEN-002",
+    "disciplina": "CIEN",
+    "modulo": "Química e Física",
+    "titulo": "Propriedades da Matéria e Estrutura Atômica",
+    "descricao": "Estudo das transformações de materiais, tabela periódica e cinemática linear.",
+    "prioridade": 5, "peso": 88, "dificuldade": 4, "tempo": 70, "questoes": 12,
+    "links": { "khan": "https://pt.khanacademy.org/science/science-9-ano", "complementar": "https://www.todamateria.com.br/o-que-e-ecologia/" },
+    "subtopicos": [
+      "Matéria: Transformações, Propriedades, Estados físicos e Mudanças de estado", "Misturas: Tipos e Métodos de separação",
+      "Estrutura atômica: Modelos atômicos, Estrutura do átomo, Número atômico, Número de massa, Isótopos, Massa atômica",
+      "Tabela Periódica: Histórico e Organização dos elementos químicos", "Energia: Produção, Transformação e Sustentabilidade",
+      "Ciclos biogeoquímicos", "Cinemática: Velocidade média e Descrição do movimento", "Interpretação gráfica e matemática do movimento"
+    ]
+  }
+]

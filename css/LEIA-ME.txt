@@ -1,0 +1,35 @@
+ESEM POCKET — versão adaptada
+
+CONTEÚDO
+- index.html: estrutura da interface.
+- css/style.css: visual e responsividade.
+- js/app.js: ciclos, conclusão de subtópicos, progresso, sequência de estudo, estatísticas, painel de acompanhamento e garagem.
+- database/edital.json: conteúdo que já existia no projeto recebido; não foi reescrito nem validado contra o edital oficial.
+- css/*.png: imagens usadas pela garagem e pela pista.
+
+COMO EXECUTAR
+1. Extraia toda a pasta ZIP para um diretório.
+2. Abra a pasta no Visual Studio Code.
+3. Inicie um servidor local, por exemplo pela extensão Live Server.
+4. Abra o index.html servido pelo Live Server.
+
+O app usa fetch() para ler database/edital.json. Por isso, abrir index.html diretamente com o protocolo file:// pode impedir o carregamento do conteúdo.
+
+ALTERAÇÕES INCLUÍDAS
+- Controles individuais para marcar/desmarcar cada subtópico.
+- XP adicionado ao concluir e descontado ao desmarcar.
+- Ciclos limitados a três subtópicos pendentes do circuito selecionado, priorizando de forma simples os itens com maior prioridade/dificuldade cadastradas.
+- Filtro real de conteúdo por circuito. Os circuitos dividem a ordem dos tópicos existente no JSON em três partes; isso é uma organização técnica do dashboard, não uma classificação oficial do edital.
+- Circuito 2 liberado em 30% de progresso; Circuito 3 em 70%.
+- Painel de acompanhamento com progresso, XP, sequência e progresso por disciplina.
+- Estatísticas de tópicos concluídos e pendentes.
+- Sequência de dias baseada em datas em que um subtópico foi concluído, não apenas na abertura do aplicativo.
+- Validação de XP e circuito no momento da compra de veículo.
+- Correções de imagens de veículos com caminhos inexistentes no ZIP original.
+- Ajustes de acessibilidade e uso em telas menores.
+
+DADOS E PRIVACIDADE
+O progresso é salvo no localStorage do navegador/dispositivo em que o app é aberto. Esta versão não sincroniza entre dispositivos. Limpar os dados do navegador pode apagar o progresso; faça uma cópia/backup antes de limpar dados do site.
+
+IMPORTANTE SOBRE O CONTEÚDO
+O database/edital.json foi mantido como recebido. A presença dos conteúdos no arquivo não confirma que estejam completos ou corretos para o certame da estudante. Compare o arquivo com o edital oficial antes de usar como plano definitivo.

@@ -1,0 +1,55 @@
+REGRAS DO CLOUD FIRESTORE — SESC POLO EDUCACIONAL
+
+Antes de publicar, confirme que está no projeto `sesc-polo-educacional`.
+Estas regras permitem que cada usuário autenticado leia e grave somente o documento de progresso cujo ID é o próprio UID. Nenhuma outra coleção fica acessível pelo cliente.
+
+Substitua as regras atuais por:
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId} {
+      allow get: if request.auth != null
+                 && request.auth.uid == userId;
+
+      allow create, update: if request.auth != null
+                            && request.auth.uid == userId
+                            && request.resource.data.keys().hasOnly(['state', 'updatedAt'])
+                            && request.resource.data.state is map
+                            && request.resource.data.updatedAt is timestamp;
+
+      allow list, delete: if false;
+    }
+  }
+}
+
+NOTAS
+- O documento de teste `users/setup` não é acessível por usuários comuns porque seu ID não corresponde ao UID autenticado.
+- Não crie regras globais permissivas como `allow read, write: if true`.
+- Essas regras protegem o progresso, mas não limitam o cadastro: qualquer pessoa pode criar uma conta no Authentication, conforme solicitado.
+
+REGRAS ADICIONAIS PARA O RANKING GLOBAL
+
+O ranking precisa publicar dados mínimos de perfil na coleção publicProfiles. Acrescente este bloco dentro de `match /databases/{database}/documents`, no mesmo nível de `match /users/{userId}`:
+
+    match /publicProfiles/{userId} {
+      allow get, list: if request.auth != null;
+      allow create, update: if request.auth != null
+        && request.auth.uid == userId
+        && request.resource.data.keys().hasOnly(['displayName', 'xp', 'questoesAcertadas', 'carroEquipado', 'updatedAt'])
+        && request.resource.data.displayName is string
+        && request.resource.data.displayName.size() <= 24
+        && request.resource.data.xp is number
+        && request.resource.data.xp >= 0
+        && request.resource.data.questoesAcertadas is number
+        && request.resource.data.questoesAcertadas >= 0
+        && request.resource.data.carroEquipado is string
+        && request.resource.data.updatedAt is timestamp;
+      allow delete: if false;
+    }
+
+IMPORTANTE SOBRE SEGURANÇA E CLASSIFICAÇÃO
+- O ranking mostra apelido, XP, quantidade de acertos e carro equipado; não publica e-mail.
+- Estas regras permitem que cada usuário escreva apenas seu próprio perfil, mas a pontuação ainda é calculada no navegador. Para um ranking competitivo resistente a fraude, será necessário validar pontuação e recompensas em backend confiável (por exemplo, Cloud Functions) antes de usar como competição oficial.
+- A coleção `publicProfiles` é lida por qualquer usuário autenticado para formar a classificação.
+- O banco de questões contém extrações automáticas de PDFs. Confira os itens marcados para revisão antes de considerar o banco definitivo.

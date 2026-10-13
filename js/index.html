@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎯 ESEM Pocket - Seu Guia para Aprovação</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="container">
+    <header class="app-header">
+        <div class="header-left">
+            <h1>🎯 ESEM Pocket</h1>
+            <p>Sua jornada rumo à aprovação começa agora!</p>
+        </div>
+        <div class="header-right">
+            <div class="stat-card"><div class="stat-number" id="xp-points">0</div><div style="font-size: 0.8rem; color: var(--text-muted);">XP</div></div>
+            <div class="stat-card"><div class="stat-number" id="streak-days">0</div><div style="font-size: 0.8rem; color: var(--text-muted);">Dias 🔥</div></div>
+            <div class="menu-wrap">
+                <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="app-menu"><span></span><span></span><span></span></button>
+                <div id="app-menu" class="app-menu" hidden>
+                    <button id="save-progress-btn">💾 Salvar progresso</button>
+                    <button id="load-progress-btn">📂 Carregar progresso</button>
+                    <button id="reset-progress-btn">🗑️ Reset</button>
+                    <button id="help-btn">❔ Ajuda</button>
+                </div>
+                <input id="load-progress-file" type="file" accept="application/json,.json" hidden>
+            </div>
+        </div>
+    </header>
+
+    <section class="progress-section">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+            <strong>Progresso Geral</strong><span id="progress-text">0% Concluído</span>
+        </div>
+        <div class="racetrack">
+            <div class="racetrack-content">
+                <div class="progress-bar" id="main-progress-bar"></div>
+                <img class="racing-car" id="racing-car" src="css/kombi.png" alt="Carro" />
+            </div>
+            <div style="text-align: right; font-size: 2rem; margin-top: 10px;">🏁</div>
+        </div>
+    </section>
+
+    <div class="level-selector-container">
+        <strong>🏎️ Escolha seu Circuito:</strong>
+        <div class="level-filters" style="display: flex; gap: 10px; margin-top: 10px;">
+            <button class="level-filter-btn active" data-study-level="1">🏁 Circuito 1</button>
+            <button class="level-filter-btn" data-study-level="2" id="btn-circuit-2">🔒 Circuito 2</button>
+            <button class="level-filter-btn" data-study-level="3" id="btn-circuit-3">🔒 Circuito 3</button>
+        </div>
+    </div>
+
+    <div class="tabs-nav">
+      <button class="tab-btn active" data-target="study-tab">🎯 Estudos</button>
+      <button class="tab-btn" data-target="parent-tab">🗺️ Mapa</button>
+      <button class="tab-btn" data-target="garage-tab">🏪 Garagem</button>
+      <button class="tab-btn" data-target="review-tab">🔁 Revisões</button>
+    </div>
+
+    <div id="study-tab" class="tab-content active">
+      <div id="controls-container"></div>
+      <div class="main-layout">
+          <aside class="daily-mission" style="background: #1e1e2f; color: white; padding: 20px; border-radius: 16px;">
+              <h2>⚡ Circuito Atual</h2>
+              <button id="btn-gerar-ciclo" class="btn" style="width: 100%; margin: 15px 0; background: #6f42c1; color: white; padding: 12px; font-weight: bold; border: none; cursor: pointer;">🚀 LANÇAR NOVO CICLO</button>
+              <div id="cycle-cards-container"></div>
+          </aside>
+          <main class="content-section">
+              <div id="topics-container"></div>
+          </main>
+      </div>
+      <section id="stats-container" class="stats-section"></section>
+    </div>
+
+    <div id="parent-tab" class="tab-content" style="display: none;"><div id="parents-dashboard" class="parent-dashboard"></div></div>
+    <div id="garage-tab" class="tab-content" style="display: none;"><div class="parent-dashboard"><h2>🏪 Concessionária</h2><div id="garage-store-container"></div></div></div>
+    <div id="review-tab" class="tab-content" style="display: none;"><div id="reviews-container" class="parent-dashboard"></div></div>
+</div>
+
+<dialog id="reset-dialog" class="app-dialog">
+  <h2>Reiniciar progresso?</h2>
+  <p>Isso apagará o progresso salvo neste dispositivo, incluindo conteúdos concluídos, XP, ciclos, revisões e veículos desbloqueados. Essa ação não pode ser desfeita.</p>
+  <div class="dialog-actions"><button id="cancel-reset" class="btn-secondary">Cancelar</button><button id="confirm-reset" class="btn-danger">Sim, reiniciar</button></div>
+</dialog>
+
+<dialog id="help-dialog" class="app-dialog help-dialog">
+  <div class="help-heading"><h2>📘 Ajuda do ESEM Pocket</h2><button id="close-help" class="close-dialog" aria-label="Fechar ajuda">×</button></div>
+  <p>Use este guia para conhecer as áreas do dashboard.</p>
+  <section><h3>🏁 Progresso geral</h3><p>A barra mostra a proporção dos subtópicos concluídos em relação ao conteúdo cadastrado. O carro acompanha seu avanço.</p></section>
+  <section><h3>🏎️ Circuitos</h3><p>Os circuitos organizam sua jornada. O Circuito 2 é liberado com 30% de progresso e o Circuito 3 com 70%.</p></section>
+  <section><h3>🎯 Estudos</h3><p>Consulte disciplinas e subtópicos, marque o que concluiu e use <strong>Lançar novo ciclo</strong> para montar uma sequência de estudos e revisões pendentes.</p></section>
+  <section><h3>🔁 Revisões</h3><p>Os conteúdos concluídos geram revisões programadas para os dias 0, 7 e 15. Quando vencidas, elas também podem aparecer intercaladas nos ciclos. Marque cada revisão como feita após realizá-la.</p></section>
+  <section><h3>🗺️ Mapa</h3><p>Veja o resumo do progresso e o andamento por disciplina.</p></section>
+  <section><h3>🏪 Garagem</h3><p>Use os pontos XP para desbloquear veículos. Alguns carros exigem que determinado circuito esteja liberado. Você pode equipar um veículo para vê-lo na barra de progresso.</p></section>
+  <section><h3>💾 Salvar e carregar progresso</h3><p><strong>Salvar progresso</strong> baixa um arquivo de backup JSON. Guarde-o em local seguro. <strong>Carregar progresso</strong> permite selecionar esse arquivo para restaurar os dados neste dispositivo.</p></section>
+  <section><h3>🗑️ Reset</h3><p>Apaga o progresso local e restaura o dashboard ao estado inicial. O sistema pede confirmação antes de executar.</p></section>
+  <div class="dialog-actions"><button id="close-help-bottom" class="btn">Entendi</button></div>
+</dialog>
+<script src="js/app.js"></script>
+</body>
+</html>
